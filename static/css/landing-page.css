@@ -116,8 +116,14 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-bg.jpg) no-repeat center;
     background-size: cover;
+    background-position-y: -289px;
+}
+
+.col-lg-5 li {
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .banner h2 {
